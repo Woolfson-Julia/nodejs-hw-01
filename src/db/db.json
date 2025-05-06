@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "3ea3ad26-4332-450e-a09f-be4e959fad58",
+    "name": "Rochelle Wiza",
+    "phone": "1-529-468-0439",
+    "email": "Eino98@yahoo.com",
+    "job": "Senior Intranet Engineer"
+  },
+  {
+    "id": "d374fd3c-f5ef-4b62-bfde-546e7f81b37d",
+    "name": "Grant Waelchi",
+    "phone": "1-623-632-2580 x9719",
+    "email": "Donald64@gmail.com",
+    "job": "District Brand Analyst"
+  },
+  {
+    "id": "facdfa66-d0c8-4ca2-92d7-33e916a0ecd0",
+    "name": "Dewey Mraz",
+    "phone": "1-856-979-9993 x487",
+    "email": "Weldon71@gmail.com",
+    "job": "Chief Creative Administrator"
+  },
+  {
+    "id": "c4146b00-2eb8-4559-881b-9c8243db24bc",
+    "name": "Kerry Huel",
+    "phone": "1-922-553-2351",
+    "email": "Candida75@gmail.com",
+    "job": "Regional Quality Executive"
+  }
+]
